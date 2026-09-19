@@ -31,11 +31,11 @@ Simple Text Editor/
 
 | Light Theme | Dark Theme |
 | :---: | :---: |
-| ![Light Theme](screenshots/light-mode.png) | ![Dark Theme](screenshots/dark-mode.png) |
+| ![Light Theme](docs/screenshots/light-mode.png) | ![Dark Theme](docs/screenshots/dark-mode.png) |
 
 | Font & Color Dialog | Context Menu |
 | :---: | :---: |
-| ![Font Dialog](screenshots/font-dialog.png) | ![Context Menu](screenshots/context-menu.png) |
+| ![Font Dialog](docs/screenshots/font-dialog.png) | ![Context Menu](docs/screenshots/context-menu.png) |
 
 ---
 
