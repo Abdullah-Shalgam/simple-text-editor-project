@@ -1,4 +1,4 @@
-# Simple Text Editor <img src="AppIcon.ico" width="28" height="28" alt="App Icon" align="center">
+# <img src="AppIcon.ico" width="28" height="28" alt="App Icon" align="center"> Simple Text Editor
 
 A modern, lightweight, and user-friendly desktop text editor built with **C#** and **Windows Forms (.NET Framework 4.8)**. Designed for smooth note-taking and editing with full support for dark/light themes, text formatting, contextual menus, and essential file management operations.
 
@@ -87,6 +87,18 @@ Simple Text Editor/
 ---
 
 ## 🚀 Getting Started
+
+### 📦 Quick Download (Pre-built Executable)
+
+If you want to test the application directly without installing Visual Studio or compiling source code:
+
+1. Click the button above (or navigate to the **[Releases](../../releases)** page).
+2. Download `Simple-Text-Editor-v1.0.0.zip`.
+3. Extract the ZIP archive and run `Simple Text Editor Project.exe`.
+
+---
+
+### 🛠️ Building From Source
 
 ### Prerequisites
 To build and run this project, make sure you have:
